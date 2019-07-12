@@ -1,0 +1,27 @@
+{
+  "author": "super_kevin",
+  "name": "censorify_kevin1",
+  "version": "0.1.1",
+  "description": "Censors words out of text",
+  "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootKevin/censorify.git"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "depeendencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/rootKevin/censorify/issues"
+  },
+  "homepage": "https://github.com/rootKevin/censorify#readme",
+  "scripts": {
+    "test": "censorify"
+  },
+  "license": "ISC"
+}
